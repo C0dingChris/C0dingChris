@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Food Expiry Tracker, 4 Week Project](https://github.com/MikeChara/SpoilerAlertFrontEnd)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **chris.sanger@outlook.com**
 
